@@ -1,3 +1,5 @@
 .DS_STORE
 .env
 .ipynb_checkpoints/
+__classwork/
+*data-do-not-push*
